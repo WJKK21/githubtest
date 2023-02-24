@@ -1,5 +1,8 @@
 *{ margin: 0; padding: 0;}
 
-@media screen (min-width:1024px) {
-  body{}
+@media screen (max-width:1724px) {
+  body{
+    background-color: coral;
+  }
+  
 }
