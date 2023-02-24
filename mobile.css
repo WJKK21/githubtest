@@ -1,6 +1,7 @@
 *{ margin: 0; padding: 0; }
-@media screen (max-width: 480px){ 
-  body {
-  font-size: 12pt;
+@media screen and (max-width: 340px) {
+  body{
+    background-color: black;
+    color: aliceblue;
   }
 }
